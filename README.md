@@ -55,3 +55,10 @@
 </p>
 
 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=wildflu&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wildflu&theme=blueberry_duo"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildflu&layout=compact&theme=github_dark"/>|
+
+
