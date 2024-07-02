@@ -59,6 +59,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=wildflu&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=wildflu&theme=blueberry_duo"/>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildflu&layout=compact&theme=github_dark"/>|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildflu&layout=compact&theme=github_dark"/>|<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=wildflu&repo=kitchen_equip_web_app&theme=nightowl&show_owner=true" alt="Cryptos Project" />
 
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildflu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
