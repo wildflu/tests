@@ -1,3 +1,7 @@
+<img align="right" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?t=st=1719959480~exp=1719963080~hmac=9701851dca8418c1d5ee8cefc1c77f6466311e5b997bdcd538aa3a01fd356a02&w=826" width = 100% height = 350px>
+
+
+
 
 <h1 align="center">Hi , I'm Walid Lotfi (wildflu) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!-- <p align="center">
