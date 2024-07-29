@@ -11,6 +11,7 @@
 <br><br>
 
 Passionate Full Stack Developer with expertise in Flutter for mobile app development and Node.js for backend systems. Skilled in crafting seamless user interfaces with React.js and Firebase, while leveraging Google Cloud services for scalability and efficiency. Proficient in project management tools like ClickUp, dedicated to optimizing workflows and ensuring timely delivery. Let's collaborate to bring your ideas to life with cutting-edge technology.
+<br><br>
 
 - :school: I am a Flutter `Senior` at `AppSynergy Technologies`
 - :trophy: 2x `ACPC` Finalist.
@@ -45,13 +46,10 @@ Passionate Full Stack Developer with expertise in Flutter for mobile app develop
 
 ## Connect with me
 <p align="center">
-	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/0201208822340"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/7oskaa/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/7oSkaaa"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ahmed_7oskaa/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://msng.link/o/?ahmed.7oskaa=sc"><img src="https://img.shields.io/badge/snapchat-%23FFFC00.svg?style=plastic&logo=snapchat&logoColor=black" alt="Snap Chat"/></a>
+	<a href="mailto:walidcode0@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="mailto:walidlotfi011@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/wildflu"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/212635225361"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 </p>
 
 
@@ -62,8 +60,9 @@ Passionate Full Stack Developer with expertise in Flutter for mobile app develop
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildflu&layout=compact&theme=github_dark"/>|<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=wildflu&repo=kitchen_equip_web_app&theme=nightowl&show_owner=true" alt="Cryptos Project" />
 
 
+
+<!-- <div align="center">
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wildflu&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
+</div> -->
 
