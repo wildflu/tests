@@ -10,6 +10,8 @@
 
 <br><br>
 
+Passionate Full Stack Developer with expertise in Flutter for mobile app development and Node.js for backend systems. Skilled in crafting seamless user interfaces with React.js and Firebase, while leveraging Google Cloud services for scalability and efficiency. Proficient in project management tools like ClickUp, dedicated to optimizing workflows and ensuring timely delivery. Let's collaborate to bring your ideas to life with cutting-edge technology.
+
 - :school: I am a Flutter `Senior` at `AppSynergy Technologies`
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
